@@ -1,4 +1,5 @@
 # Projeto X-men
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/BrenoSantos07/Projeto-X-men/blob/main/LICENSE)
 
 # Sobre o Projeto
 
